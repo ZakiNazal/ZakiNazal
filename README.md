@@ -3,6 +3,8 @@
 19 y/o CS student at Asia Pacific University, Malaysia.  
 I build mobile apps and websites with Flutter — mostly projects I wish existed.
 
+My Portfoilio Website: https://zakinazal.github.io/
+
 ## 🚀 What I'm working on
 - 📚 **Coco** — an app that summarises your study material so you don't have to read everything twice
 - 🌤️ **WeatherSphere** — an app that tracks weather at your location and different other locations too.
