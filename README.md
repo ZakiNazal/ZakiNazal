@@ -4,8 +4,8 @@
 I build mobile apps and websites with Flutter — mostly projects I wish existed.
 
 ## 🚀 What I'm working on
-- 📱 **Pulse** — live sports scores & match timings
 - 📚 **Coco** — an app that summarises your study material so you don't have to read everything twice
+- 🌤️ **WeatherSphere** — an app that tracks weather at your location and different other locations too.
 - More stuff coming soon...
 
 ## 🛠️ My stack
