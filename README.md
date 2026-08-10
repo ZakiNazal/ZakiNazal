@@ -5,11 +5,6 @@ I build mobile apps and websites with Flutter — mostly projects I wish existed
 
 My Portfoilio Website: https://zakinazal.github.io/
 
-## 🚀 What I'm working on
-- 📚 **Coco** — an app that summarises your study material so you don't have to read everything twice
-- 🌤️ **WeatherSphere** — an app that tracks weather at your location and different other locations too.
-- More stuff coming soon...
-
 ## 🛠️ My stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
