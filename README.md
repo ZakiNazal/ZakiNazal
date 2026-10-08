@@ -1,6 +1,6 @@
 # Hey, I'm Zaki 👋
 
-19 y/o CS student at Asia Pacific University, Malaysia.  
+20 y/o CS student at Asia Pacific University, Malaysia.  
 I build mobile apps and websites with Flutter — mostly projects I wish existed.
 
 My Portfoilio Website: https://zakinazal.github.io/
